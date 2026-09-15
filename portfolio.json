@@ -1,0 +1,16 @@
+{
+  "title": "FashionAura Marketplace",
+  "description": "Next.js fashion storefront with a product catalogue, shop pages and cart flow, styled with Tailwind and Font Awesome iconography.",
+  "techTags": [
+    "Next.js",
+    "React",
+    "TailwindCSS"
+  ],
+  "source": "github",
+  "category": "Ecommerce",
+  "live_url": "",
+  "repo_name": "Fasionaura-Marketplace",
+  "repo_link": true,
+  "image": "/projects/fashionaura.webp",
+  "fetch": true
+}
